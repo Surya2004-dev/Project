@@ -1,4 +1,5 @@
 FACE RECOGNITION ATTENDANCE SYSTEM:
+
 This project is a Flask-based web application that automates student attendance using face recognition technology. It consists of three main modules:
 
 1. DATASET CREATION (DatasetCreation.py):
